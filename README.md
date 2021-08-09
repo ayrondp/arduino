@@ -18,14 +18,26 @@
 
 ## Some more projects below   
 
+## An LCD integrated to an MQTT running on RasPI  
+
 ![Screenshot](wp-1455972301764.jpg)  
+
+## 2-hands Joystick adapter  
 
 ![Screenshot](wp-1455975223187.jpg)  
 
+## 1-hand Joystick adapter  
+
 ![Screenshot](wp-1455975296512.jpg)  
+
+## A simple temperature sensor and with a LCD   
 
 ![Screenshot](wp-1463875141194.jpg)  
 
+## Another MQTT board, now in the internet   
+
 ![Screenshot](wp-image-636981108jpg.jpg)  
+
+## A simpler MQTT board with temperature sensor   
 
 ![Screenshot](wp-image-1886264114jpg.jpg)  
