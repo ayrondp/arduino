@@ -6,9 +6,11 @@
 
 ## The second board had some more complicated components, like Bluetooth, GPS and LCD board. Uuuuhaaaa!  
 
-![Screenshot](Prototipo_v3.jpg)  
+![Screenshot](Prototipo_v2.jpg)  
 
 ## The third board was using an Arduino mega board with a USB adapter. So I did a Playstation joystick communication. Also plugged in the intranet.   
+
+![Screenshot](Prototipo_v3.jpg) 
 
 ## Later, with an even better board, I did a voice integration between Android and Arduino. Somethink like a Google assistant without the assistant. :D     
 
