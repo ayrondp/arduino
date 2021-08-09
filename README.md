@@ -1,6 +1,6 @@
 # Old days playing with Arduino boards  
 
-## The fist board was using 2x Arduino chips with a few sensors - just for fun.  
+## The fist board was using 2x Arduino chips with some sensors - just for fun.  
 
 ![Screenshot](Prototipo_v1.jpg)  
 
