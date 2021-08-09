@@ -16,11 +16,16 @@
 
 ![Screenshot](img-20160330-wa0005.jpg)  
 
-## Some more propjects below   
+## Some more projects below   
 
 ![Screenshot](wp-1455972301764.jpg)  
+
 ![Screenshot](wp-1455975223187.jpg)  
+
 ![Screenshot](wp-1455975296512.jpg)  
+
 ![Screenshot](wp-1463875141194.jpg)  
+
 ![Screenshot](wp-image-636981108jpg.jpg)  
+
 ![Screenshot](wp-image-1886264114jpg.jpg)  
